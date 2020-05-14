@@ -1,2 +1,3 @@
 # hello-world
-The first repository
+
+Hi humans, I'm Juanito Zambada, and I'm a Node.JS programmer.
